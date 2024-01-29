@@ -1,0 +1,15 @@
+
+
+
+.des_div{
+  display: flex;
+}
+
+.des_div img{
+  margin-right: 5px;
+  padding: 10px;
+}
+.authour{
+  display: flex;
+  margin-left: 5px;
+}
